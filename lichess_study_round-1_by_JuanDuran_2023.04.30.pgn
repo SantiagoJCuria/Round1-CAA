@@ -1211,3 +1211,25 @@
 1. e4 c5 2. f4 Nc6 3. Nf3 g6 4. Bc4 Bg7 5. c3 e6 6. e5 d5 7. exd6 Qxd6 8. d3 Nge7 9. O-O O-O 10. Na3 a6 11. Nc2 Rd8 12. a4 Na5 13. Ne3 b6 14. Qe2 Bb7 15. d4 cxd4 16. Nxd4 Bxd4 17. cxd4 Qxd4 18. Ba2 Rac8 19. Kh1 Qxa4 20. Bd2 Nb3 21. Bxb3 Qxb3 22. Bc3 Nd5 23. Nxd5 Qxd5 24. Rad1 Qe4 25. Qf2 b5 26. Rfe1 Rxd1 27. Rxd1 b4 28. Bf6 Bd5 29. Re1 Rc2 30. Rxe4 Rxf2 31. Kg1 Rxb2 32. Re1 Rxg2+ 33. Kf1 Rxh2 34. Bd4 b3 35. Rc1 Rc2 36. Ra1 b2 0-1
 
 
+[Event "SEMIFINAL 98° CAMPEONATO ARGENTINO SUPER"]
+[Site "Club Argentino de Ajedrez - Pa"]
+[Date "2023.??.??"]
+[Round "1.34"]
+[White "Menduni Gavarotto, Juliana Agosti"]
+[Black "Asprelli, Gaspar"]
+[Result "0-1"]
+[BlackElo "2000"]
+[ECO "A47"]
+[Opening "Neo-Queen's Indian"]
+[Variation "2..b6 3.e3 Bb7 4.Bd3"]
+[WhiteElo "2400"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "18"]
+[WhiteType "human"]
+[BlackType "program"]
+
+1. d4 Nf6 2. Nf3 b6 3. e3 Bb7 4. Bd3 g6 5. b3 Bg7 6. Bb2 O-O 7. O-O d6 8.
+Nbd2 Nbd7 9. c3 e5 {(e7-e5 Qd1-c2 d6-d5 e3-e4 d5xe4 Nd2xe4 Ra8-b8 Ra1-e1
+Nf6xe4 Bd3xe4 Bb7-a6) -0.10/12 2} 0-1
+
